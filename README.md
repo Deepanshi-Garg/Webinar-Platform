@@ -4,7 +4,7 @@ This API allows authenticated users to manage webinars, including creating, list
 
 ## Base URL
 ```
-http://localhost:4000
+https://webinar-platform.onrender.com
 ```
 
 ## Authentication
